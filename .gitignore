@@ -1,0 +1,17 @@
+# Python virtual environment
+level_1/level-1-env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git local weird folder if present
+git./
